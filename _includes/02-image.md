@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Screenshot of an MTG Arena hand containing Island, Riverglide Pathway, Steam Vents, Opt, Opt, Frantic Inventory, and Silundi Vision](link)
